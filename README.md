@@ -1,1 +1,1 @@
-# MERB-Stack-Application
+# MERN-Stack-Application
